@@ -12,14 +12,20 @@ sidebar:
       url: /index.html
 product-family:
   sidebarlinks:
-    - title: All
-      tags: tag_get_started, tag_storagegrid, tag_appliances, tag_enable
-      class: active
-    - title: Get started
-      tags: tag_get_started
-    - title: StorageGRID software
-      tags: tag_storagegrid
-    - title: Appliances
-      tags: tag_appliances
-    - title: Enable StorageGRID
-      tags: tag_enable
+      - title: All
+        tags: all
+        class: active
+      - title: Get started
+        tags: get_started
+      - title: StorageGRID software
+        tags: storagegrid
+      - title: Appliances
+        tags: appliances
+      - title: Enable StorageGRID
+        tags: enable
+  tiles:
+      - title: "Learn about StorageGRID"
+        icon: ./media/groups_line-1.png
+        url: /intro-family.html
+        summary: "Learn about the E-Series family of storage systems."
+        tags: all, get_started
