@@ -9,6 +9,8 @@ sidebar:
   entries:
     - title: StorageGRID product documentation
       url: /index.html
+    - title: StorageGRID product documentation 
+      url: /legal-notices.html  
 product-family:
   sidebarlinks:
       - title: All
@@ -22,9 +24,25 @@ product-family:
         tags: appliances
       - title: Enable StorageGRID
         tags: enable
+    
   tiles:
       - title: "Learn about StorageGRID"
-        icon: ./media/groups_line-1.png
-        url: /intro-family.html
-        summary: "Learn about the E-Series family of storage systems."
+        icon: ./media/groups_line.png
+        url: intro-family.html
+        summary: "Learn about StorageGRID documentation."
         tags: all, get_started
+      - title: "StorageGRID 11.8 software"
+        icon: ./media/config_line.png
+        url: https://review.docs.netapp.com/us-en/storagegrid-118_main/index.html
+        summary: "Use StorageGRID documentation."
+        tags: all, storagegrid
+      - title: "StorageGRID appliances"
+        icon: ./media/server.png
+        url: https://review.docs.netapp.com/us-en/storagegrid-appliances_main/index.html
+        summary: "Install and maintain StorageGRID appliances."
+        tags: all, appliances
+      - title: "Enable StorageGRID"
+        icon: ./media/synergy.png
+        url: https://docs.netapp.com/us-en/storagegrid-enable/index.html
+        summary: "Install and maintain StorageGRID appliances."
+        tags: all, enable
