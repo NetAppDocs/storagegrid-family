@@ -18,7 +18,7 @@ product-family:
         tags: get_started
       - title: StorageGRID software
         tags: storagegrid
-      - title: Appliances
+      - title: StorageGRID appliances
         tags: appliances
       - title: Enable StorageGRID
         tags: enable
@@ -31,13 +31,28 @@ product-family:
         icon: ./media/groups_line.png
         url: intro-family.html
         summary: "Learn about StorageGRID."
-        tags: all, get_started
-      - title: "StorageGRID 11.8 software"
+        tags: all, get_started  
+      - title: "StorageGRID 11.8 documentation"
         icon: ./media/config_line.png
         url: https://review.docs.netapp.com/us-en/storagegrid-118_main/index.html
         summary: "Configure and use StorageGRID 11.8 software."
         tags: all, storagegrid
-      - title: "StorageGRID appliances"
+      - title: "StorageGRID 11.7 documentation"
+        icon: ./media/config_line.png
+        url: https://review.docs.netapp.com/us-en/storagegrid-117_main/index.html
+        summary: "Configure and use StorageGRID 11.7 software."
+        tags: all, storagegrid
+      - title: "StorageGRID 11.6 documentation"
+        icon: ./media/config_line.png
+        url: https://docs.netapp.com/us-en/storagegrid-116/index.html
+        summary: "Configure and use StorageGRID 11.6 software."
+        tags: all, storagegrid
+      - title: "StorageGRID 11.5 documentation"
+        icon: ./media/config_line.png
+        url: https://docs.netapp.com/us-en/storagegrid-115/index.html
+        summary: "Configure and use StorageGRID 11.5 software."
+        tags: all, storagegrid
+      - title: "StorageGRID appliance documentation"
         icon: ./media/icon-onprem.png
         url: https://review.docs.netapp.com/us-en/storagegrid-appliances_main/index.html
         summary: "Install and maintain StorageGRID appliances."
