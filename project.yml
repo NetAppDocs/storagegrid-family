@@ -9,8 +9,6 @@ sidebar:
   entries:
     - title: StorageGRID product documentation
       url: /index.html
-    - title: StorageGRID product documentation 
-      url: /legal-notices.html  
 product-family:
   sidebarlinks:
       - title: All
@@ -24,7 +22,10 @@ product-family:
         tags: appliances
       - title: Enable StorageGRID
         tags: enable
-    
+  entries:
+    - title: Legal notices
+      url: /legal-notices.html  
+
   tiles:
       - title: "Learn about StorageGRID"
         icon: ./media/groups_line.png
