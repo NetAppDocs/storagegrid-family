@@ -34,7 +34,7 @@ product-family:
         tags: all, get_started  
       - title: "StorageGRID 11.8 documentation"
         icon: ./media/config_line.png
-        url: https://review.docs.netapp.com/us-en/storagegrid-118_main/index.html
+        url: https://review.docs.netapp.com/us-en/storagegrid-118_family-page-breadcrumb/index.html
         summary: "Configure and use StorageGRID 11.8 software."
         tags: all, storagegrid
       - title: "StorageGRID 11.7 documentation"
