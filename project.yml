@@ -29,20 +29,20 @@ product-family:
       - title: "Learn about StorageGRID"
         icon: ./media/groups_line.png
         url: intro-family.html
-        summary: "Learn about StorageGRID documentation."
+        summary: "Learn about StorageGRID."
         tags: all, get_started
       - title: "StorageGRID 11.8 software"
         icon: ./media/config_line.png
         url: https://review.docs.netapp.com/us-en/storagegrid-118_main/index.html
-        summary: "Use StorageGRID documentation."
+        summary: "Configure and use StorageGRID 11.8 software."
         tags: all, storagegrid
       - title: "StorageGRID appliances"
-        icon: ./media/server.png
+        icon: ./media/icon-onprem.png
         url: https://review.docs.netapp.com/us-en/storagegrid-appliances_main/index.html
         summary: "Install and maintain StorageGRID appliances."
         tags: all, appliances
       - title: "Enable StorageGRID"
         icon: ./media/synergy.png
         url: https://docs.netapp.com/us-en/storagegrid-enable/index.html
-        summary: "Install and maintain StorageGRID appliances."
+        summary: "Integrate and enable other applications."
         tags: all, enable
