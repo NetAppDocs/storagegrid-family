@@ -1,12 +1,61 @@
 settings:
-  name: "Product Name"
+  name: StorageGRID
+# search: "storagegrid,appliances,hardware,object storage"
   internal:
-    pdf_enabled: true
+    pdf_enabled: false
   prod:
-    pdf_enabled: true
-    harmony_enabled: true
-
-sidebar: 
+    pdf_enabled: false
+sidebar:
   entries:
-  - title: Legal notices
-    url: /legal-notices.html
+    - title: StorageGRID product documentation
+      url: /index.html
+product-family:
+  sidebarlinks:
+      - title: All
+        tags: all
+        class: active
+      - title: Get started
+        tags: get_started
+      - title: StorageGRID software
+        tags: storagegrid
+      - title: StorageGRID appliances
+        tags: appliances
+      - title: Enable StorageGRID
+        tags: enable  
+
+  tiles:
+      - title: "Learn about StorageGRID"
+        icon: ./media/groups_line.png
+        url: intro-family.html
+        summary: "Learn about StorageGRID."
+        tags: all, get_started  
+      - title: "StorageGRID 11.8 documentation"
+        icon: ./media/config_line.png
+        url: https://review.docs.netapp.com/us-en/storagegrid-118_main/index.html
+        summary: "Configure and use StorageGRID 11.8 software."
+        tags: all, storagegrid
+      - title: "StorageGRID 11.7 documentation"
+        icon: ./media/config_line.png
+        url: https://review.docs.netapp.com/us-en/storagegrid-117_main/index.html
+        summary: "Configure and use StorageGRID 11.7 software."
+        tags: all, storagegrid
+      - title: "StorageGRID 11.6 documentation"
+        icon: ./media/config_line.png
+        url: https://docs.netapp.com/us-en/storagegrid-116/index.html
+        summary: "Configure and use StorageGRID 11.6 software."
+        tags: all, storagegrid
+      - title: "StorageGRID 11.5 documentation"
+        icon: ./media/config_line.png
+        url: https://docs.netapp.com/us-en/storagegrid-115/index.html
+        summary: "Configure and use StorageGRID 11.5 software."
+        tags: all, storagegrid
+      - title: "StorageGRID appliance documentation"
+        icon: ./media/icon-onprem.png
+        url: https://review.docs.netapp.com/us-en/storagegrid-appliances_main/index.html
+        summary: "Install and maintain StorageGRID appliances."
+        tags: all, appliances
+      - title: "Enable StorageGRID"
+        icon: ./media/synergy.png
+        url: https://docs.netapp.com/us-en/storagegrid-enable/index.html
+        summary: "Integrate and enable other applications."
+        tags: all, enable
