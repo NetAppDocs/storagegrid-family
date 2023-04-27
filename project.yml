@@ -16,9 +16,9 @@ product-family:
         class: active
       - title: Get started
         tags: get_started
-      - title: Configure and use StorageGRID software
+      - title: Configure and use software
         tags: storagegrid
-      - title: Install and maintain StorageGRID appliances
+      - title: Install and maintain appliances
         tags: appliances
       - title: Integrate and enable
         tags: enable  
@@ -35,11 +35,11 @@ product-family:
         summary: "Configure and use StorageGRID 11.8 software."
         tags: all, storagegrid
       - title: "Other StorageGRID versions"
-        icon: ./media/cvo.png
-        url: /earlier-versions.html
+        icon: ./media/icon-cvo.png
+        url: earlier-versions.html
         summary: "Configure and use other StorageGRID versions."
         tags: all, storagegrid
-      - title: "Install and maintain StorageGRID appliances"
+      - title: "StorageGRID appliances"
         icon: ./media/icon-onprem.png
         url: https://review.docs.netapp.com/us-en/storagegrid-appliances_main/index.html
         summary: "Install and maintain StorageGRID appliances."
@@ -47,5 +47,5 @@ product-family:
       - title: "Enable StorageGRID"
         icon: ./media/synergy.png
         url: https://docs.netapp.com/us-en/storagegrid-enable/index.html
-        summary: "Integrate and enable StorageGRID."
+        summary: "Test, integrate, and enable StorageGRID."
         tags: all, enable
