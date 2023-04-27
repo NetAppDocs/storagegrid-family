@@ -37,7 +37,7 @@ product-family:
       - title: "Other StorageGRID versions"
         icon: ./media/icon-cvo.png
         url: earlier-versions.html
-        summary: "Configure and use other StorageGRID versions."
+        summary: "Configure and use another StorageGRID version."
         tags: all, storagegrid
       - title: "StorageGRID appliances"
         icon: ./media/icon-onprem.png
