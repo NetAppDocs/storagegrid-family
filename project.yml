@@ -16,11 +16,11 @@ product-family:
         class: active
       - title: Get started
         tags: get_started
-      - title: StorageGRID software
+      - title: Configure and use software
         tags: storagegrid
-      - title: StorageGRID appliances
+      - title: Install and maintain appliances
         tags: appliances
-      - title: Enable StorageGRID
+      - title: Integrate and enable
         tags: enable  
 
   tiles:
@@ -34,22 +34,12 @@ product-family:
         url: https://review.docs.netapp.com/us-en/storagegrid-118_main/index.html
         summary: "Configure and use StorageGRID 11.8 software."
         tags: all, storagegrid
-      - title: "StorageGRID 11.7 documentation"
-        icon: ./media/config_line.png
-        url: https://review.docs.netapp.com/us-en/storagegrid-117_main/index.html
-        summary: "Configure and use StorageGRID 11.7 software."
+      - title: "Other StorageGRID versions"
+        icon: ./media/icon-cvo.png
+        url: earlier-versions.html
+        summary: "Configure and use another StorageGRID version."
         tags: all, storagegrid
-      - title: "StorageGRID 11.6 documentation"
-        icon: ./media/config_line.png
-        url: https://docs.netapp.com/us-en/storagegrid-116/index.html
-        summary: "Configure and use StorageGRID 11.6 software."
-        tags: all, storagegrid
-      - title: "StorageGRID 11.5 documentation"
-        icon: ./media/config_line.png
-        url: https://docs.netapp.com/us-en/storagegrid-115/index.html
-        summary: "Configure and use StorageGRID 11.5 software."
-        tags: all, storagegrid
-      - title: "StorageGRID appliance documentation"
+      - title: "StorageGRID appliances"
         icon: ./media/icon-onprem.png
         url: https://review.docs.netapp.com/us-en/storagegrid-appliances_main/index.html
         summary: "Install and maintain StorageGRID appliances."
@@ -57,5 +47,5 @@ product-family:
       - title: "Enable StorageGRID"
         icon: ./media/synergy.png
         url: https://docs.netapp.com/us-en/storagegrid-enable/index.html
-        summary: "Integrate and enable other applications."
+        summary: "Test, integrate, and enable StorageGRID."
         tags: all, enable
