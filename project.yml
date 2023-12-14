@@ -1,6 +1,6 @@
 settings:
   name: StorageGRID
-  search: "storagegrid-117,storagegrid-enable"
+# search: "storagegrid,appliances,hardware,object storage"
   internal:
     pdf_enabled: false
   prod:
