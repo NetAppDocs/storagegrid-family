@@ -1,6 +1,6 @@
 settings:
   name: StorageGRID
-  search: "storagegrid-117,storagegrid-enable,storagegrid-118"
+  search: "storagegrid-117,storagegrid-enable,storagegrid-118,storagegrid-appliances"
   internal:
     pdf_enabled: false
   prod:
@@ -12,7 +12,7 @@ sidebar:
 product-family:
   sidebarlinks:
       - title: All
-        tags: all, get_started, storagegrid, appliances, enable
+        tags: all,get_started,storagegrid,appliances,enable
         class: active
       - title: Get started
         tags: get_started
