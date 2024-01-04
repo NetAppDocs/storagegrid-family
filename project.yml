@@ -1,6 +1,6 @@
 settings:
   name: StorageGRID
-# search: "storagegrid,appliances,hardware,object storage"
+  search: "storagegrid-117,storagegrid-enable,storagegrid-118,storagegrid-appliances"
   internal:
     pdf_enabled: false
   prod:
@@ -12,7 +12,7 @@ sidebar:
 product-family:
   sidebarlinks:
       - title: All
-        tags: all
+        tags: all,get_started,storagegrid,appliances,enable
         class: active
       - title: Get started
         tags: get_started
@@ -28,7 +28,7 @@ product-family:
         icon: ./media/groups_line.png
         url: intro-family.html
         summary: "Learn about StorageGRID."
-        tags: all, get_started  
+        tags: all, get_started
       - title: "StorageGRID 11.8 documentation"
         icon: ./media/config_line.png
         url: https://review.docs.netapp.com/us-en/storagegrid-118_main/index.html
