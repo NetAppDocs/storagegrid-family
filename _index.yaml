@@ -1,0 +1,38 @@
+product-family:
+  title: StorageGRID documentation
+  lead: "NetApp StorageGRID is a software-defined object storage suite that supports a wide range of use cases across public, private, and hybrid multicloud environments. StorageGRID offers native support for the Amazon S3 API and delivers industry-leading innovations such as automated lifecycle management to store, secure, protect, and preserve unstructured data cost effectively over long periods."
+  summary: "NetApp StorageGRID is a software-defined object storage suite that supports a wide range of use cases across public, private, and hybrid multicloud environments. StorageGRID offers native support for the Amazon S3 API and delivers industry-leading innovations such as automated lifecycle management to store, secure, protect, and preserve unstructured data cost effectively over long periods."
+  keywords: 
+  sidebarlinks:
+    - title: All
+      tags: all
+      class: active
+    - title: Get started
+      tags: get_started
+    - title: Configure and use software
+      tags: storagegrid
+    - title: Install and maintain appliances
+      tags: appliances
+    - title: Integrate and enable
+      tags: enable  
+  tiles:
+    - title: "Learn about StorageGRID"
+      icon: ./media/groups_line.png
+      url: intro-family.html
+      summary: "Learn about StorageGRID."
+      tags: all, get_started, storagegrid, appliances, enable
+    - title: "StorageGRID 11.8 documentation"
+      icon: ./media/config_line.png
+      url: ../storagegrid-118/index.html
+      summary: "Configure and use StorageGRID 11.8 software."
+      tags: all, storagegrid
+    - title: "StorageGRID appliances"
+      icon: ./media/icon-onprem.png
+      url: ../storagegrid-appliances/index.html
+      summary: "Install and maintain StorageGRID appliances."
+      tags: all, appliances
+    - title: "Enable StorageGRID"
+      icon: ./media/synergy.png
+      url: ../storagegrid-enable/index.html
+      summary: "Test, integrate, and enable StorageGRID."
+      tags: all, enable
