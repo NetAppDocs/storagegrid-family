@@ -49,7 +49,7 @@ Advantages of the StorageGRID system include the following:
 * https://docs.netapp.com/us-en/storagegrid-117/[StorageGRID 11.7 docs^]
 * https://docs.netapp.com/us-en/storagegrid-116/[StorageGRID 11.6 docs^]
 * https://docs.netapp.com/us-en/storagegrid-115/[StorageGRID 11.5 docs^]
-* https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61023[StorageGRID 11.4 Docs^]
+* https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61023[StorageGRID 11.4 docs^]
 
 == StorageGRID appliances
 
