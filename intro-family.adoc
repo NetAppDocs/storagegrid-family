@@ -45,13 +45,15 @@ Advantages of the StorageGRID system include the following:
 
 == StorageGRID software
 
-* https://review.docs.netapp.com/us-en/storagegrid-118_main/[StorageGRID 11.8 docs^]
-* https://review.docs.netapp.com/us-en/storagegrid-117_main/[StorageGRID 11.7 docs^]
+* https://docs.netapp.com/us-en/storagegrid-118/[StorageGRID 11.8 docs^]
+* https://docs.netapp.com/us-en/storagegrid-117/[StorageGRID 11.7 docs^]
 * https://docs.netapp.com/us-en/storagegrid-116/[StorageGRID 11.6 docs^]
+* https://docs.netapp.com/us-en/storagegrid-115/[StorageGRID 11.5 docs^]
+* https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61023[StorageGRID 11.4 docs^]
 
 == StorageGRID appliances
 
-* https://review.docs.netapp.com/us-en/storagegrid-appliances_main/[StorageGRID appliances^]
+* https://docs.netapp.com/us-en/storagegrid-appliances/[StorageGRID appliances^]
 
 == How to enable StorageGRID in your environment
 
