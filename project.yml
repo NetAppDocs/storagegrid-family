@@ -1,12 +1,11 @@
 settings:
-  name: "Product Name"
+  name: StorageGRID
+  search: "storagegrid-enable,storagegrid-118,storagegrid-appliances"
   internal:
-    pdf_enabled: true
+    pdf_enabled: false
   prod:
-    pdf_enabled: true
-  # harmony_enabled: true
-
-sidebar: 
+    pdf_enabled: false
+sidebar:
   entries:
-  - title: Legal notices
-    url: /legal-notices.html
+    - title: StorageGRID product documentation
+      url: /index.html
