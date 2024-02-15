@@ -5,6 +5,7 @@ settings:
     pdf_enabled: false
   prod:
     pdf_enabled: false
+    harmony_enabled: true
 sidebar:
   entries:
     - title: StorageGRID product documentation
