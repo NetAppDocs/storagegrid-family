@@ -37,6 +37,6 @@ product-family:
       tags: all, enable
     - title: "Other versions of documentation"
       icon: ./media/config_line.png
-      url: ../storagegrid-118/index.html
+      url: ../storagegrid-118/earlier-versions.html
       summary: "Documentation for other versions of StorageGRID."
       tags: all, storagegrid
