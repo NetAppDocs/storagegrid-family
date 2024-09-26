@@ -22,7 +22,7 @@ product-family:
       tags: all, get_started, storagegrid, appliances, enable
     - title: "StorageGRID documentation"
       icon: ./media/config_line.png
-      url: ../storagegrid-118/index.html
+      url: ../storagegrid/index.html
       summary: "Access documentation for all StorageGRID versions."
       tags: all, storagegrid
     - title: "StorageGRID appliances"
