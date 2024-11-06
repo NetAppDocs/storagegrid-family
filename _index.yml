@@ -35,8 +35,3 @@ product-family:
       url: ../storagegrid-enable/index.html
       summary: "Test, integrate, and enable StorageGRID."
       tags: all, enable
-    - title: "Other versions of StorageGRID documentation"
-      icon: ./media/config_line.png
-      url: ../storagegrid/earlier-versions.html
-      summary: "Access all versions of StorageGRID documentation."
-      tags: all, storagegrid
