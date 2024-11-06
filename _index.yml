@@ -18,7 +18,7 @@ product-family:
     - title: "Learn about StorageGRID"
       icon: ./media/groups_line.png
       url: intro-family.html
-      summary: "Learn about StorageGRID."
+      summary: "Learn about StorageGRID and access documentation for earlier StorageGRID versions."
       tags: all, get_started, storagegrid, appliances, enable
     - title: "StorageGRID documentation"
       icon: ./media/config_line.png
