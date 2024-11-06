@@ -53,6 +53,9 @@ You can find documentation for earlier versions of StorageGRID software here:
 * https://docs.netapp.com/us-en/storagegrid-117/index.html[StorageGRID 11.7 documentation^]
 * https://docs.netapp.com/us-en/storagegrid-116/index.html[StorageGRID 11.6 documentation^]
 * https://docs.netapp.com/us-en/storagegrid-115/index.html[StorageGRID 11.5 documentation^]
+* https://docs.netapp.com/sgws-114/index.jsp[StorageGRID 11.4 Documentation Center^]
+* https://docs.netapp.com/sgws-113/index.jsp[StorageGRID 11.3 Documentation Center^]
+* https://docs.netapp.com/sgws-112/index.jsp[StorageGRID 11.2 Documentation Center^]
 
 == How to enable StorageGRID in your environment
 
