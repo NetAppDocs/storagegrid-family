@@ -18,12 +18,12 @@ product-family:
     - title: "Learn about StorageGRID"
       icon: ./media/groups_line.png
       url: intro-family.html
-      summary: "Learn about StorageGRID."
+      summary: "Learn about StorageGRID and access documentation for earlier StorageGRID versions."
       tags: all, get_started, storagegrid, appliances, enable
-    - title: "StorageGRID 11.8 documentation"
+    - title: "StorageGRID documentation"
       icon: ./media/config_line.png
-      url: ../storagegrid-118/index.html
-      summary: "Configure and use StorageGRID 11.8 software."
+      url: ../storagegrid/index.html
+      summary: "Install, configure, and maintain the latest StorageGRID software."
       tags: all, storagegrid
     - title: "StorageGRID appliances"
       icon: ./media/icon-onprem.png

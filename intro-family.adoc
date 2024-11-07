@@ -17,11 +17,10 @@ StorageGRID is composed of geographically distributed, redundant, heterogeneous 
 
 == StorageGRID benefits
 
-Advantages of the StorageGRID system include the following:
+Advantages of the StorageGRID system include:
 
-* Massively scalable and easy-to-use a geographically distributed data repository for unstructured data.
-* Support for Amazon Web Services Simple Storage Service (S3) protocol
-
+* Massively scalable and easy-to-use, geographically distributed data repository for unstructured data.
+* Support for Amazon Web Services Simple Storage Service (S3) protocol.
 * Hybrid cloud enabled. Policy-based information lifecycle management (ILM) stores objects to public clouds, including Amazon Web Services (AWS) and Microsoft Azure. StorageGRID platform services enable content replication, event notification, and metadata searching of objects stored to public clouds.
 * Flexible data protection to ensure durability and availability. Data can be protected using replication and layered erasure coding. At-rest and in-flight data verification ensures integrity for long-term retention.
 * Dynamic data lifecycle management to help manage storage costs. You can create ILM rules that manage data lifecycle at the object level, and customize data locality, durability, performance, cost, and retention time.
@@ -43,17 +42,20 @@ Advantages of the StorageGRID system include the following:
 * Non-disruptive upgrade and maintenance operations. Maintain access to content during upgrade, expansion, decommission, and maintenance procedures.
 * Federated identity management. Integrates with Active Directory, OpenLDAP, or Oracle Directory Service for user authentication. Supports single sign-on (SSO) using the Security Assertion Markup Language 2.0 (SAML 2.0) standard to exchange authentication and authorization data between StorageGRID and Active Directory Federation Services (AD FS).
 
-== StorageGRID software
+== StorageGRID documentation
 
-* https://docs.netapp.com/us-en/storagegrid-118/[StorageGRID 11.8 docs^]
-* https://docs.netapp.com/us-en/storagegrid-117/[StorageGRID 11.7 docs^]
-* https://docs.netapp.com/us-en/storagegrid-116/[StorageGRID 11.6 docs^]
-* https://docs.netapp.com/us-en/storagegrid-115/[StorageGRID 11.5 docs^]
-* https://mysupport.netapp.com/documentation/productlibrary/index.html?productID=61023[StorageGRID 11.4 docs^]
+* https://docs.netapp.com/us-en/storagegrid/[StorageGRID software doc site^]
+* https://docs.netapp.com/us-en/storagegrid-appliances/[StorageGRID appliances doc site^]
 
-== StorageGRID appliances
+You can find documentation for earlier versions of StorageGRID software here:
 
-* https://docs.netapp.com/us-en/storagegrid-appliances/[StorageGRID appliances^]
+* https://docs.netapp.com/us-en/storagegrid-118/index.html[StorageGRID 11.8 documentation^]
+* https://docs.netapp.com/us-en/storagegrid-117/index.html[StorageGRID 11.7 documentation^]
+* https://docs.netapp.com/us-en/storagegrid-116/index.html[StorageGRID 11.6 documentation^]
+* https://docs.netapp.com/us-en/storagegrid-115/index.html[StorageGRID 11.5 documentation^]
+* https://docs.netapp.com/sgws-114/index.jsp[StorageGRID 11.4 Documentation Center^]
+* https://docs.netapp.com/sgws-113/index.jsp[StorageGRID 11.3 Documentation Center^]
+* https://docs.netapp.com/sgws-112/index.jsp[StorageGRID 11.2 Documentation Center^]
 
 == How to enable StorageGRID in your environment
 
@@ -70,4 +72,3 @@ Some of the information included:
 * Tool and application guides.
 
 * API examples for using StorageGRID features such as S3 encryption and S3 Object Lock.
-
