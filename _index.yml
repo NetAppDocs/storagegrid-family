@@ -30,7 +30,7 @@ product-family:
       url: ../storagegrid-appliances/index.html
       summary: "Install and maintain StorageGRID appliances."
       tags: all, appliances
-    - title: "Enable StorageGRID"
+    - title: "StorageGRID solutions and resources"
       icon: ./media/synergy.png
       url: ../storagegrid-enable/index.html
       summary: "Test, integrate, and enable StorageGRID."
